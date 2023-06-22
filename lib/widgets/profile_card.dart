@@ -7,7 +7,6 @@ import 'package:ishtapp/tabs_product_lab/discover_tab.dart' as ProductLab;
 import 'package:swipe_stack/swipe_stack.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-
 import 'package:ishtapp/datas/app_state.dart';
 import 'package:ishtapp/components/custom_button.dart';
 import 'default_card_border.dart';
@@ -17,7 +16,6 @@ import 'package:ishtapp/constants/configs.dart';
 import 'package:ishtapp/screens/chat_screen.dart';
 import '../widgets/Dialogs/Dialogs.dart';
 import 'package:flutter_tindercard/flutter_tindercard.dart';
-
 import 'package:flutter_guid/flutter_guid.dart';
 
 class ProfileCard extends StatefulWidget {

@@ -20,13 +20,9 @@ import 'package:ishtapp/components/custom_button.dart';
 import 'package:ishtapp/datas/vacancy.dart';
 import 'package:ishtapp/datas/Skill.dart';
 import 'dart:io';
-// import 'package:gx_file_picker/gx_file_picker.dart';
-import 'package:url_launcher/url_launcher.dart';
 import 'package:dropdown_search/dropdown_search.dart';
-
 import 'package:file_picker/file_picker.dart';
-// import 'package:ishtapp/file/file_service.dart';
-// import 'package:ishtapp/file/util.dart';
+
 
 class ProfileScreen extends StatefulWidget {
   @override

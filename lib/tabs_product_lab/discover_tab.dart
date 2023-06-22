@@ -10,7 +10,6 @@ import 'package:ishtapp/datas/vacancy.dart';
 import 'package:ishtapp/utils/constants.dart';
 import 'package:ishtapp/widgets/profile_card.dart';
 import 'package:ishtapp/widgets/vacancy_view.dart';
-import 'package:ishtapp/widgets/users_grid.dart';
 import 'package:flutter_tindercard/flutter_tindercard.dart';
 import 'package:ishtapp/datas/Skill.dart';
 
